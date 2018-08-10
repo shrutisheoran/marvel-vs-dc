@@ -1,0 +1,30 @@
+
+DEPLOYED ON HEROKU
+LINK-->  https://ancient-sands-40450.herokuapp.com/
+
+
+MARVEL SUPERHEROES
+
+IRONMAN
+CAPTAIN AMERICA
+ANTMAN
+HULK
+SPIDERMAN
+
+
+DC SUPERHEROES
+SUPERMAN
+BATMAN
+WONDER WOMAN
+AQUAMAN
+
+
+IMAGE ADDRESSES TO CHECK WHETHER THE APP IS WORKING
+
+http://media.comicbook.com/2018/04/jason-momoa-aquaman-skateboards-1101779-1280x0.jpeg
+
+https://www.sideshowtoy.com/assets/products/400310-iron-man-mark-iii/lg/marvel-iron-man-mark-3-life-size-figure-400310-08.jpg
+
+https://i.pinimg.com/236x/bb/1c/a9/bb1ca90342a9dca70538f2c8baa06657--traditional-paintings-marvel-dc.jpg
+
+http://athenaposters.ca/wp-content/uploads/2017/06/RP15161-Wonder-Woman-Shield.jpg
